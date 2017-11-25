@@ -1,6 +1,6 @@
 # bqcsv-releases
 
-Repository for bqcsv release binaries.
+Solutions for small data. Repository for bqcsv release binaries.
 
 Documentation is found at https://github.com/williw8/bqcsv/wiki
 
